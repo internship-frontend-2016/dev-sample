@@ -3,4 +3,4 @@ node_modules
 .map
 
 ### お好みで設定 ###
-build
+# build
