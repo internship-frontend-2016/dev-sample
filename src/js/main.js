@@ -1,13 +1,11 @@
 'use strict';
-// var io = require('socket.io')();
 
 $(function(){
   console.log('main.js');
   
   let a = () => {
     console.log('let a');
-  };
-  
+  };  
   a();
   
   

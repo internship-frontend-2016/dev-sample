@@ -56,7 +56,6 @@ module.exports = {
   ],
 
 
-
   jsLibConcat: {
     name: 'lib.js',
     srcs: [
