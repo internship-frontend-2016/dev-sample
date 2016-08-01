@@ -7,7 +7,7 @@ var io = require('socket.io')(http);
 //   res.sendfile('index.html');
 // });
 
-app.use(express.static('dist')); // dist ディレクトリを使う
+app.use(express.static('build')); // build ディレクトリを使う
 
 io.on('connection', function(socket){
   socket.on('chat message', function(msg){
