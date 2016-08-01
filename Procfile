@@ -1,1 +1,3 @@
-web: npm i && gulp && node index.js
+web: npm i 
+web: gulp 
+web: node index.js
