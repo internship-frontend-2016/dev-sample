@@ -1,1 +1,2 @@
-web: gulp && node index.js
+web: gulp
+web: node index.js
